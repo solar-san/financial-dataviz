@@ -1,6 +1,14 @@
 # financial-dataviz
 
+---
+
+## Summary
 Studies, exercises, programs to visualize financial data with python + Plotly
+
+
+---
+
+## References
 
 _Inspired by_:
 
