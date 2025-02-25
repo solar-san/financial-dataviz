@@ -14,7 +14,7 @@
 
 ## References
 
-_Inspired by_:
+_Inspired by_^[See references for a detailed bibliography,]:
 
 * Rodriguez, Kaczmarek "Visualizing Financial Data"
 * Tufte "Visual Explanations"
