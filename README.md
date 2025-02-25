@@ -14,7 +14,8 @@
 
 ## References
 
-_Inspired by_^[See references for a detailed bibliography,]:
+> [!NOTE]
+> _Inspired by_[^1]:
 
 * Rodriguez, Kaczmarek "Visualizing Financial Data"
 * Tufte "Visual Explanations"
@@ -22,3 +23,4 @@ _Inspired by_^[See references for a detailed bibliography,]:
 * Wickham "A Layered Grammar of Graphics"
 
 
+[^1]: See _references_ in the `_build` folder for a detailed bibliography.
